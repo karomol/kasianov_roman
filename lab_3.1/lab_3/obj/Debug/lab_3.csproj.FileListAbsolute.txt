@@ -1,0 +1,7 @@
+C:\Users\рома\source\repos\lab_3.1\lab_3\bin\Debug\lab_3.exe.config
+C:\Users\рома\source\repos\lab_3.1\lab_3\bin\Debug\lab_3.exe
+C:\Users\рома\source\repos\lab_3.1\lab_3\bin\Debug\lab_3.pdb
+C:\Users\рома\source\repos\lab_3.1\lab_3\obj\Debug\lab_3.csprojAssemblyReference.cache
+C:\Users\рома\source\repos\lab_3.1\lab_3\obj\Debug\lab_3.csproj.CoreCompileInputs.cache
+C:\Users\рома\source\repos\lab_3.1\lab_3\obj\Debug\lab_3.exe
+C:\Users\рома\source\repos\lab_3.1\lab_3\obj\Debug\lab_3.pdb
